@@ -1,6 +1,5 @@
 ## Repositório de Projetos – Curso de Algoritmos
 
----
 
 ### Descrição
 
